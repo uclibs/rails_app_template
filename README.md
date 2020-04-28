@@ -1,2 +1,10 @@
-# Adopt a book
-This application will be used for the 2021 Adopt-A-Book event
+# Rails Application Template
+A template for new rails applications that includes:
+* Rspec
+* Coveralls
+* Rubocop
+* Dotenv
+* Circle-CI
+* Byebug
+* Resolved Rubocop violations
+* Schema.rb
